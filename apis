@@ -17,3 +17,19 @@ public static final String REVIEW_URL = MAIN_URL + "/v1/vendor/review/";
 
 
 Vendor APIS:
+
+public static final String ORDER_URL = MAIN_URL + "/v1/vendor/order/";
+public static final String LOGIN_URL =  MAIN_URL +"/v1/m/login";
+public static final String GET_MENU = MAIN_URL +"/v1/vendor/menu/";
+public static final String DELETE_MENU= MAIN_URL + "/v1/vendor/menu/item/";
+public static final String GET_STATUS_URL = MAIN_URL +"/v1/vendor/order/status/";
+public static final String POST_ISOPEN = MAIN_URL +"/v1/vendor/isopen/";
+public static final String GET_VENDOR_INFO = MAIN_URL +"/v1/vendor/info/";
+
+"/v1/vendor/order/"
+"/v1/m/login"
+"/v1/vendor/menu/"
+"/v1/vendor/menu/item/"
+"/v1/vendor/order/status/"
+"/v1/vendor/isopen/"
+"/v1/vendor/info/"
